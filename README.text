@@ -1,0 +1,5 @@
+# Redis-cache-integration
+1.Redis Insight/server : https://redis.io/insight/
+  Provides UI view, install it, open it and create a new redis database then it provides URL(127.0.0.1:6379).
+  Use this Host and port in Redis configuration
+2.Redis server: https://sourceforge.net/projects/redis-for-windows.mirror/
